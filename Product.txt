@@ -1,5 +1,9 @@
 product işlemler....
 remote da değişiklikler eklledik...
 nsb branch task tamamladı
+
 bazı özellikler ekledim
 bazı öz ekle
+
+yeni özellikler
+
